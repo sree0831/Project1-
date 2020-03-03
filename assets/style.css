@@ -462,7 +462,7 @@ img:hover {
 
 /****contact form*****/
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
  
 *{
   margin: 0;
@@ -536,7 +536,7 @@ body{
 }
  
 .btn {
-    background: #39b7dd;
+    background: #330c5f;
     text-align: center;
     padding: 15px;
     border-radius: 5px;
