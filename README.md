@@ -62,12 +62,12 @@ This project has a few interesting features that I feel need special mention.
 * Social Links: The social media icons have a hover effect and also when clicked they open up in a new browser window while keeping my page open. This allows the user to easily get back to my page once the icons are clicked.
 
 Features Left to Implement :
+
 Although I am pleased with how the site turned out there are still some features that I would like to implement in a future version of the site.
 * create a buy page 
 * create a image gallery page
 
 ## Project Strategy
-
 
 When creating this project I needed to develop an overall strategy which would help me to understand the purpose of this project. I needed to keep these ideas in mind when implementing the completed design.
 
