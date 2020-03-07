@@ -1,8 +1,6 @@
 
-
 # TOYS -Milestone Project 1
 <a href="https://ibb.co/hKCrKXr"><img src="https://i.ibb.co/64NG4vG/website-design.png" alt="website-design" border="0"></a>
-
 
 
 This project is designed as a three page  project that will demonstrate my ability with using HTML and CSS for my **Milestone One project for Code Institute**. The project uses core front end technologies along with the Bootstrap front-end framework for added responsivness and for improved cross browser compatability. The site also takes advantage of Google Fonts to allow for more of a modern feeling typgrophy set.
