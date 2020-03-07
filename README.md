@@ -1,5 +1,7 @@
 
 # TOYS -Milestone Project 1
+
+
 <a href="https://ibb.co/hKCrKXr"><img src="https://i.ibb.co/64NG4vG/website-design.png" alt="website-design" border="0"></a>
 
 
@@ -59,7 +61,7 @@ This project has a few interesting features that I feel need special mention.
 * Responsive product cards: The product cards in  shop page  are designed to draw attention of users with eye catching backgrounds and animation when they move cursor on product cards.
 * Contact Form : The form takes users input  and can take users feedback and message .
 * Footer :  Users can enter E mail for news letters and has a logo with social links.
-* Social Links: the social media icons have a hover effect and also when clicked they open up in a new browser window while keeping my page open. This allows the user to easily get back to my page once the icons are clicked.
+* Social Links: The social media icons have a hover effect and also when clicked they open up in a new browser window while keeping my page open. This allows the user to easily get back to my page once the icons are clicked.
 
 Features Left to Implement :
 Although I am pleased with how the site turned out there are still some features that I would like to implement in a future version of the site.
