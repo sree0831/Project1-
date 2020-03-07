@@ -1,35 +1,51 @@
-<a href="https://ibb.co/0Kv9ycH"><img src="https://i.ibb.co/0Kv9ycH/logo.jpg" alt="logo" border="0"></a>
 
-# TOYS 
-A three page website that tells a little history of **Toys That Made Us** for curious little minds .They can choose their favorite toys in shop and can contact for further information!
 
+# TOYS -Milestone Project 1
+<a href="https://ibb.co/hKCrKXr"><img src="https://i.ibb.co/64NG4vG/website-design.png" alt="website-design" border="0"></a>
+
+
+
+This project is designed as a three page  project that will demonstrate my ability with using HTML and CSS for my **Milestone One project for Code Institute**. The project uses core front end technologies along with the Bootstrap front-end framework for added responsivness and for improved cross browser compatability. The site also takes advantage of Google Fonts to allow for more of a modern feeling typgrophy set.
 
 ## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Demo](#demo)
+* [Project Description](#Project-Description)
 * [Technologies](#technologies)
 * [Libraries](#libraries)
 * [Deployment](#deployment)
-* [Features](#features)
+* [Project Features](#project-features)
+* [Project Strategy](#project-Strategy)
+* [UI / UX](#UI/UX)
 * [Testing](#testing)
 * [Inspiration](#inspiration)
 * [Credits](#credits)
 
+## Demo
+A live demo of the site can be found hosted on Github pages by following this link:
+https://sree0831.github.io/Project1-/
 
+## Project Description
+This project is a three page HTML project where we can learn about little history of  three popular toys --**HelloKitty**, **Lego**, **Barbie**. The main page **Index page** welcome's you with colourful navigation , animated image , history of toys and a footer.
+The second page **shop page** has products where you can choose ,add to shopping cart and buy them which is Responsive and animated .
+The third page **contact page**  users can contact through their Name,E-mail,Phonenumber and also can leave their feedback and message!
 
-## General info
-In this project I mentioned history of three popular toys --**HelloKitty**, **Lego**, **Barbie**.User can also go to shop page and can choose the toys and buy them !
-
-
-## Screenshots
-<a href="https://ibb.co/DzPYFGJ"><img src="https://i.ibb.co/vVChWsF/project.png" alt="project" border="0"></a>
-
+* Responsive Navigation Bar: this provides navigation around the site.
+* About Section: this is expected to grab the users attention with history of TOYS.
+* Shopping page: this draw users attention to choose products and explore them. 
+* Contact: this section consits of a form to contact .
+* Footer: This  can take users input and some useful social media links that can be used as an alternative way of contacting the website.
 
 ## Technologies
-* HTML , CSS
-* Bootstrap - version 4.2.1
-* Font-awesome - version 4.7.0
-* Cloudflare - version 2.1.1
+
+To complete this project I have used a variety of front end technologies.
+
+1. HTML 5: Modern HTML with semantice elements to form the structure of the site.
+2. CSS 3: Used to style the site includes flexbox and a grid system for modern layouts and responsive design.
+3. Bootsrap: A front end framework that simplifies the grid system and comes with many components and utility classes that help make front end development as easier experience.
+4. Google Fonts: Allows for a wider choice of fonts.
+5. Github: Used for version control and to store a remote copy of the project.
+6. Github pages: a feature of Github that allows us to deploy a static website and have it hosted online.
+7. Gitpod: Gitpod is an online IDE (Integrated Development Environment) which can be launched from any GitHub page.
 
 ## Libraries
 * [Code Institute](https:codeinstitute.net/)
@@ -37,34 +53,52 @@ In this project I mentioned history of three popular toys --**HelloKitty**, **Le
 * I took reference from these libraries !
 
 
-## Features
-Existing Features !
-* Responsive Navbar. 
-* Users request for News letter.
-* Transparent Contact Form with Users input .
-* Responsive Product card with badge,details,price ,links and buttons.
-* Footer with logo , social links and feedback .
-* Cute images
+## Project Features
+This project has a few interesting features that I feel need special mention.
+
+* Responsive Navigation Bar: The navigation bar changes to a dropdown menu in smaller screens.
+* Images:  The  images on all pages changes it's position when user move cursor.
+* Responsive product cards: The product cards in  shop page  are designed to draw attention of users with eye catching backgrounds and animation when they move cursor on product cards.
+* Contact Form : The form takes users input  and can take users feedback and message .
+* Footer :  Users can enter E mail for news letters and has a logo with social links.
+* Social Links: the social media icons have a hover effect and also when clicked they open up in a new browser window while keeping my page open. This allows the user to easily get back to my page once the icons are clicked.
 
 Features Left to Implement :
-*   create a buy page 
+Although I am pleased with how the site turned out there are still some features that I would like to implement in a future version of the site.
+* create a buy page 
 * create a image gallery page
+
+## Project Strategy
+
+
+When creating this project I needed to develop an overall strategy which would help me to understand the purpose of this project. I needed to keep these ideas in mind when implementing the completed design.
+
+1. Demonstrate the skills that I have acquired from the Code Institute curriculam thus far and pass the assesment criteria of Code Institute.
+2. Create a fully featured front end project that I can use to draw attention to my skills and attract potential users/clients.
+
+With these criteria in mind I determined that a three page fun colourful site would be the best option. It would make navigation and organization of the data simple. It would allow me to showcase some of my design ability in creating product cards and allow me to focus on primarily HTML and CSS , though it  lack overall complexity ,which I can accomplish by using more technologies in coming projects . I needed to be careful not to overload the user with too much information in the form of text as this could lead to a very cluttered looking site.
+
+The main scope of this project was to demonstrate what I have learned thus far in the Code Institute course with regards to HTML and CSSand I tried to use the best colour combination, the type of fonts, and the best layout options for this project.
+
+## UI / UX
+The layout and content of the site has been carfully curated to logically tell the user the story of **Toys that made us**.The main page contains an eye catching image ,navigation bar that introduces history of toys to the user and is designed to grab attention.
+The shop page drags the users attention with eye catching product cards and image animation ,where users can see prices and choose their favorite toys and buy them .
+Finally the contact page the users can get in touch with the site owner with their name , E-mail, and can leave their comments and feedback.
+Users can select which social media they have to use and follow the website and can get updates from Newsletters.
 
 ## Deployment
 ```
-# Find out our current directory
-pwd
-
-# List the contents of the directory
-ls
 
 # Create a new local git repository
 git init
 
-# Check for the existence of the `.git` directory
-ls -a
+# Add individual  files 
 
-# Add all the files 
+git add index.html
+git add shop.html
+git add contact.html
+
+# Add all files 
 
 git add .
 
@@ -82,20 +116,62 @@ git remote add origin <project url>
 git push -u origin master
     
 ```
+
+This site is deployed using a feature of Github known as Github Pages. To make your site go live on the internet you need to follow the following steps:
+
+1. Select the repository that you wish to make live.
+2. Make sure that the home page is called index.html
+3. At the top of the page click on the settings tab.
+4. Once in the settings section scroll down the page untill you get to a section called github pages.
+5. Where the option exits to select a branch to deploy change the option from none to master branch.
+6. If you have followed these steps correctly the page should reload.
+7. Scroll back down to the github pages section and you should see a message that reads something like this: your site is ready to be deployed at username.github.io/example
+8. Wait for a few minutes and refresh the page and the if successfully the message should now read: Your site is published at ...
+
+To create a local copy of the project you can select the repository and just above the readme file you will see a button that gives you the option to download or clone the file.
+
 ## Testing
 
-* Users can request for Newsletters and can send feedback
-* Had Responsive product cards which is easy to navigate on small and large devices
-* Takes users input in Contact page 
-* Can hover through add, like and buy products
-* socail links in footer 
+Throughout the process of developing this site I regularly checked my code using the W3Schools HTML and CSS validators.
+
+The results of the HTML validation can be seen in the below image:
+
+<a href="https://ibb.co/zfWrRgX"><img src="https://i.ibb.co/VB0tSGg/project-validation.png" alt="project-validation" border="0"></a>
+
+The results of the CSS validation can be seen in the below image:
+
+<a href="https://ibb.co/KhpgwMn"><img src="https://i.ibb.co/MSxH6Yd/css-validation.png" alt="css-validation" border="0"></a>
+
+For responsivness I checked a website called am I responvie. I also checked how the site looked on a variety of devices and browsers. The devices that I checked the site on were:
+
+* 15 inch HP Laptop
+* 13 inch Macbook pro
+* 21 inch desktop PC
+* Samsung galaxy phone
+*Iphone 
+The site looked great on all these devices and didn't seem to show any problems.
+
+The browsers I used for testing are as follows:
+
+* Google Chrome
+* Firefox Safari
+* Microsoft Edge
+* Microsoft Internet Explorer
+
+The site looked perfect and responsive :
+
+<a href="https://ibb.co/KK20xWy"><img src="https://i.ibb.co/J3vBjHk/website-design-1.png" alt="website-design-1" border="0"></a>
+
 
 
 ## Credits
 
+This project would not have been possible without the following:
+
 * The text in content page is copied from https://www.wikipedia.org/
 
 * The photos used in this site were obtained from https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjJy6KX_-3nAhUIqYsKHaxzBsQQPAgH
+* icons were sourced from https://fontawesome.com/
 
 ## Inspiration
 
