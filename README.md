@@ -79,7 +79,7 @@ With these criteria in mind I determined that a three page fun colourful site wo
 The main scope of this project was to demonstrate what I have learned thus far in the Code Institute course with regards to HTML and CSSand I tried to use the best colour combination, the type of fonts, and the best layout options for this project.
 
 ## UI / UX
-The layout and content of the site has been carfully curated to logically tell the user the story of **Toys that made us**.The main page contains an eye catching image ,navigation bar that introduces history of toys to the user and is designed to grab attention.
+The layout and content of the site has been carefully curated to logically tell the user the story of **Toys that made us**.The main page contains an eye catching image ,navigation bar that introduces history of toys to the user and is designed to grab attention.
 The shop page drags the users attention with eye catching product cards and image animation ,where users can see prices and choose their favorite toys and buy them .
 Finally the contact page the users can get in touch with the site owner with their name , E-mail, and can leave their comments and feedback.
 Users can select which social media they have to use and follow the website and can get updates from Newsletters.
