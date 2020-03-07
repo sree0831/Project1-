@@ -134,11 +134,11 @@ Throughout the process of developing this site I regularly checked my code using
 
 The results of the HTML validation can be seen in the below image:
 
-<a href="https://ibb.co/zfWrRgX"><img src="https://i.ibb.co/VB0tSGg/project-validation.png" alt="project-validation" border="0"></a>
+[![project-validation.png](https://imagehost.imageupload.net/2020/03/07/project-validation.png)](https://www.imageupload.net/image/jZ4ug)
 
 The results of the CSS validation can be seen in the below image:
 
-<a href="https://ibb.co/KhpgwMn"><img src="https://i.ibb.co/MSxH6Yd/css-validation.png" alt="css-validation" border="0"></a>
+[![css-validation.png](https://imagehost.imageupload.net/2020/03/07/css-validation.png)](https://www.imageupload.net/image/jZPRs)
 
 For responsivness I checked a website called am I responvie. I also checked how the site looked on a variety of devices and browsers. The devices that I checked the site on were:
 
@@ -158,7 +158,7 @@ The browsers I used for testing are as follows:
 
 The site looked perfect and responsive :
 
-<a href="https://ibb.co/KK20xWy"><img src="https://i.ibb.co/J3vBjHk/website-design-1.png" alt="website-design-1" border="0"></a>
+[![website-design-1.png](https://imagehost.imageupload.net/2020/03/07/website-design-1.png)](https://www.imageupload.net/image/jZs15)
 
 ## Credits
 
