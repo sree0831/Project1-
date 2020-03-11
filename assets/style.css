@@ -19,11 +19,17 @@ nav{
   width: 100%;
 }
 label.logo{
-  color: white;
+  color: black;
   font-size: 35px;
   line-height: 80px;
   padding: 0 100px;
   font-weight: bold;
+}
+.label{
+    color: black;
+}
+.fa{
+    color: black;
 }
 nav ul{
   float: right;
@@ -35,14 +41,13 @@ nav ul li{
   margin: 0 5px;
 }
 nav ul li a{
-  color: white;
+  color: black;
   font-size: 17px;
   padding: 7px 13px;
   border-radius: 3px;
   text-transform: uppercase;
 }
 a.active,a:hover{
-  background: #6b0785;
   transition: .5s;
 }
 .checkbtn{
@@ -61,6 +66,7 @@ a.active,a:hover{
   label.logo{
     font-size: 30px;
     padding-left: 50px;
+    color: #000;
   }
   nav ul li a{
     font-size: 16px;
@@ -109,29 +115,24 @@ body{
 footer{
   background: #f76809;
   padding: 90px 0;
-  min-height: 120px;
+  min-height: 90px;
   margin: 0;
+  z-index: 1;
 }
 
 .footer-container{
   max-width: 1300px;
   margin: auto;
-  padding: 0 20px;
+  padding: 0 5px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap-reverse;
 }
-
-.logo{
-  width: 180px;
-}
-
 .social-media{
   margin: 20px 0;
   
 }
-
 .social-media a{
   color: #001a21;
   margin-right: 25px;
@@ -140,19 +141,19 @@ footer{
   transition: .3s linear;
   
 }
-
 .social-media a:hover{
   color: #fc5c65;
 }
 
 .right-col h1{
   font-size: 26px;
+  text-align: left;
+  color: black;
 }
 
 .border{
-  width: 100px;
-  height: 4px;
-  background: #fc5c65;
+  width: 210px;
+  height: 4px;  
 }
 
 .newsletter-form{
@@ -179,7 +180,7 @@ footer{
   padding: 18px 40px;
   font-size: 16px;
   color: #f1f1f1;
-  background: #fc5c65;
+  background: #001a21;
   border: none;
   font-weight: 700;
   outline: none;
@@ -191,6 +192,7 @@ footer{
 
 .btn:hover{
   opacity: .7;
+  background: #001a21;
 }
 
 .page-content{
@@ -231,6 +233,7 @@ footer{
   margin: 0;
   padding: 0;
   font-family: "Montserrat", sans-serif;
+
 }
 .about{
   padding: 40px 0;
@@ -241,7 +244,9 @@ footer{
 h1 {
 color: #3e78b2;
 }
-
+p {
+    text-align: left;
+}
 
 .inner{
   max-width: 1200px;
@@ -276,10 +281,7 @@ color: #3e78b2;
   text-transform: uppercase;
   margin: 20px 0;
 }
-.stars{
-  color: #6ab04c;
-  margin-bottom: 20px;
-}
+
 
 
 @media screen and (max-width:960px) {
@@ -316,6 +318,7 @@ a
 }
 h1{
     color: #f0f0f0;
+    text-align: center;
 }
 .product-grid{
 	padding-bottom: 20px;
@@ -435,8 +438,8 @@ h1{
 }
 
 .buy{
-	background-color: transparent;
-	color: #434444;
+	background-color: black;
+	color: #181a1a;
 	border-radius: 0;
 	border: 1px solid #434444;
 	width: 100%;
@@ -454,87 +457,45 @@ img:hover {
 
 
 /****contact form*****/
-
-
- 
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  outline: none;
-  font-family: "Montserrat", sans-serif;
-}
- 
+*
 body{
-  
-  background-size: cover;
-  height: 100vh;
-}
- 
-.wrapper{
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 100%;
-  padding: 0 20px;
-}
- 
-.contact-form{
-  display: flex;
-  max-width: 550px;
-  margin: 0 auto;
-  background: rgba(0,0,0,0.8);
-  padding: 30px;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
-}
- 
-.input-fields{
-  display: flex;
-  flex-direction: column;
-  margin-right: 4%;
-}
- 
-.input-fields,
-.msg{
-  width: 48%;
-}
- 
-.input-fields .input,
-.msg textarea{
-  margin: 10px 0;
-  background: transparent;
-  border: 0px;
-  border-bottom: 2px solid #c5ecfd;
-  padding: 10px;
-  color: #c5ecfd;
-  width: 100%;
-}
- 
-.msg textarea{
-  height: 212px;
-}
- 
- 
-.btn {
-    background: #330c5f;
-    text-align: center;
-    padding: 15px;
-    border-radius: 5px;
-    color: #fff;
-    cursor: pointer;
-    text-transform: uppercase;
-}
- 
-@media screen and (max-width: 600px){
-  .contact-form{
-    flex-direction: column;
-  }
-  .msg textarea{
-    height: 80px;
-  }
-  .input-fields,
-  .msg{
-    width: 100%;
-  }
-}
+		background-color: #001a21;
+	}
+	.contact{
+		padding: 3%;
+        padding-bottom: 2%;
+		height: 700px;
+	}
+	.col-md-3{
+		background: #f38723;
+		padding: 4%;
+		border-top-left-radius: 0.5rem;
+		border-bottom-left-radius: 0.5rem;
+	}
+	.contact-info{
+		margin-top:10%;
+	}
+	.contact-info img{
+		margin-bottom: 15%;
+	}
+	.contact-info h2{
+		margin-bottom: 10%;
+	}
+	.col-md-9{
+		background: #fff;
+		padding: 3%;
+		border-top-right-radius: 0.5rem;
+		border-bottom-right-radius: 0.5rem;
+	}
+	.contact-form label{
+		font-weight:600;
+	}
+	.contact-form button{
+		background: #25274d;
+		color: #fff;
+		font-weight: 600;
+		width: 28%;
+	}
+	.contact-form button:focus{
+		box-shadow:none;
+	}
