@@ -19,14 +19,14 @@ nav{
   width: 100%;
 }
 label.logo{
-  color: black;
+  color: white;
   font-size: 35px;
   line-height: 80px;
   padding: 0 100px;
   font-weight: bold;
 }
 .label{
-    color: black;
+    color: white;
 }
 .fa{
     color: black;
@@ -41,7 +41,7 @@ nav ul li{
   margin: 0 5px;
 }
 nav ul li a{
-  color: black;
+  color: white;
   font-size: 17px;
   padding: 7px 13px;
   border-radius: 3px;
@@ -66,7 +66,7 @@ a.active,a:hover{
   label.logo{
     font-size: 30px;
     padding-left: 50px;
-    color: #000;
+    color: white;
   }
   nav ul li a{
     font-size: 16px;
@@ -114,7 +114,6 @@ body{
 
 footer{
   background: #f76809;
-  padding: 90px 0;
   min-height: 90px;
   margin: 0;
   z-index: 1;
