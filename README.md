@@ -21,7 +21,7 @@ This project is designed as a three page  project that will demonstrate my abili
 ## Demo
 A live demo of the site can be found hosted on Github pages by following this link:
 
-https://sree0831.github.io/Project1-/
+ https://sree0831.github.io/Project1-/.
 
 ## Project Description
 This project is a three page HTML project where we can learn about little history of  three popular toys --**HelloKitty**, **Lego**, **Barbie**. The main page **Index page** welcome's you with colourful navigation , animated image , history of toys and a footer.
