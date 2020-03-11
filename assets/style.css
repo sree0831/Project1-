@@ -148,6 +148,7 @@ footer{
   font-size: 26px;
   text-align: left;
   color: black;
+  padding-top: 15px;
 }
 
 .border{
@@ -160,6 +161,7 @@ footer{
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  padding-bottom: 10px;
 }
 
 .txtb{
@@ -173,6 +175,7 @@ footer{
   outline: none;
   border-radius: 30px;
   min-width: 260px;
+  padding-top: 10px;
 }
 
 .btn{
@@ -187,6 +190,7 @@ footer{
   margin-left: 20px;
   cursor: pointer;
   transition: opacity .3s linear;
+  padding-top: 3px;
 }
 
 .btn:hover{
@@ -451,7 +455,9 @@ h1{
 img:hover {
   transform: scaleX(-1);
 }
-
+.text-center {
+    padding-top: 20px;
+}
 
 
 
