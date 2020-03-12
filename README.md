@@ -1,7 +1,7 @@
 
 # TOYS -Milestone Project
 
-[![website-design.png](https://imagizer.imageshack.com/img923/6751/VqD32V.png)]
+![website-design.png](https://imagizer.imageshack.com/img923/6751/VqD32V.png)
 
 This project is designed as a three page  project that will demonstrate my ability with using HTML and CSS for my **Milestone One project for Code Institute**. The project uses core front end technologies along with the Bootstrap front-end framework for added responsivness and for improved cross browser compatability. The site also takes advantage of Google Fonts to allow for more of a modern feeling typgrophy set.
 
@@ -135,7 +135,7 @@ Throughout the process of developing this site I regularly checked my code using
 
 The results of the HTML validation can be seen in the below image:
 
-[![project-validation.png](https://imagehost.imageupload.net/2020/03/07/project-validation.png)](https://www.imageupload.net/image/jZ4ug)
+![project-validation.png](https://imagizer.imageshack.com/img924/6569/5pzmHb.png)
 
 The results of the CSS validation can be seen in the below image:
 
