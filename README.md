@@ -135,11 +135,11 @@ Throughout the process of developing this site I regularly checked my code using
 
 The results of the HTML validation can be seen in the below image:
 
-![project-validation.png](https://imagizer.imageshack.com/img924/6569/5pzmHb.png)
+![project-validation.png](https://imagizer.imageshack.com/img921/4860/zmcWDP.png)
 
 The results of the CSS validation can be seen in the below image:
 
-[![css-validation.png](https://imagehost.imageupload.net/2020/03/07/css-validation.png)](https://www.imageupload.net/image/jZPRs)
+![css-validation.png](https://imagizer.imageshack.com/img923/8113/hEYNyZ.png)
 
 For responsivness I checked a website called am I responvie. I also checked how the site looked on a variety of devices and browsers. The devices that I checked the site on were:
 
